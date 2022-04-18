@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: cf53ed1d26884b242a04b4c6ae012489
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1670470620716820422
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 6577470353386638967
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 9072670948749520495
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 6616955536424665886
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8823849776946746023
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 8024252484426863758
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4561423378355081370
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -4193731523997958772
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 1746236190287702832
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3565203776579344636
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2339428648365746020
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 757839741826869031
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -5074540801510511846
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -5711286553849319855
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2394397516637151077
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -4848190711564655567
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 8292409764160513615
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -3166899134192646189
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -8332266165669689351
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 6406581083776627748
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 938360558029421093
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: -5537083622490025731
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -1144326762204213361
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -6837124210953106100
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: 4861309943350224467
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: -6136162520939870050
+    second: 'Model_16_Assault_Rifle|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: -2896630857135899369
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4459007424459588710
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 5288034121282480827
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 7240566942027861603
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -1900531094492258020
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 289532491673404106
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -2287512181720162168
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 7886851942474423496
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -3010627410410255253
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -1444579998632035688
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2351102908094015489
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 2939126661478846168
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -1185339649147789503
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 7999316169053718196
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: -6103468231039991827
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 1176153509556357720
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -989436459595868523
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -8152278551257295171
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6785735129721245504
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -5052243204603789417
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -5908264898529900098
+    second: 'Model_16_Assault_Rifle|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: 635882665686267696
+    second: 'Model_16_Assault_Rifle|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: -7555613334690809193
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: -6992785263561207393
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: 2408347791041706157
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 6221948082307290311
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: 4078447210669158705
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: 6230048680089248975
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -8518972629945290850
+    second: Model_16_Assault_Rifle|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: -6205339153892996972
+    second: Model_16_Assault_Rifle|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: -1985729865773609831
+    second: Model_16_Assault_Rifle|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: 8822880064831760819
+    second: Model_16_Assault_Rifle|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: 6031376298064724840
+    second: Model_16_Assault_Rifle|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: 4628520715289207719
+    second: Model_16_Assault_Rifle|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: 8007024544159627022
+    second: Model_16_Assault_Rifle|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: -5289551277815119025
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 267527576775850880
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -5087264709192391697
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 5467724406561041955
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -7181656766742154462
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -7861722321927704938
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 6628750090940723622
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -9174780935336043774
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6999540038325449695
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8032832331244344897
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -310024281756141175
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 7282860981734959875
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 8287975853218563647
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 1492484719931840250
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 5264845695941853099
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -3043021156555054218
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 21418508262004698
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -7051279562045735290
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 2525464248480968006
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3462245953430630462
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 5795783150078208714
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: 4958987395986798194
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -4193098232499052593
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 7463522295140103424
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: -7412323682785888478
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: -413310429651156545
+    second: 'Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 8899199955687008316
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 419090905683297849
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 3445189663771937264
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 2822049567255299731
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 5117746713468939986
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4127458618679027725
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4112836453355924365
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -138758501375611656
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -5805226087634396602
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -6467061651087175603
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -1520644324753204620
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -6565798592438954903
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -4978440191966749126
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -547637371000061879
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 5238817604191486440
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -5006543678255340851
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 3152019560023492572
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -9036009696199926230
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 277875456801322198
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 4196551855618224250
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -5753315477498349548
+    second: 'Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: -7134795309257934208
+    second: 'Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 5325872771606482107
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: 1826353702267263978
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: 6897367596907428633
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 7587588339492995643
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: -4263728076155497558
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -4464279062646759918
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -7145049385682332981
+    second: Model_16_Assault_Rifle.001|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: 6351544377356674741
+    second: Model_16_Assault_Rifle.001|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 6222939998319857731
+    second: Model_16_Assault_Rifle.001|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: 5925062569004331830
+    second: Model_16_Assault_Rifle.001|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: -4572812399947318550
+    second: Model_16_Assault_Rifle.001|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -3804326494833021122
+    second: Model_16_Assault_Rifle.001|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: 7761417385971006745
+    second: Model_16_Assault_Rifle.001|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: -7615032094447747487
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4795210740580702358
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -2392538515844594677
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 3625233577956519259
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8381454436636748555
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -3567480362834634332
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 9083061886627703853
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -7760817570166935138
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6071209706843153882
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -6349001482038095760
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 3988323306751669323
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -7486231174087579391
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -7226513581111495102
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 4385145425424886946
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2217003176330877857
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4702233431914980208
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -192099299688281056
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 155851282076385128
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 8136676680769555239
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 3646287930361745696
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 830693928963420850
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: 2939771891996313793
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -3040433938624768584
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 722605602888326929
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: 3390798076440263723
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: -2069277862692620785
+    second: 'Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: -8972302344899956024
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 6241467016501695107
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 488089538333692601
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 7216320279354098185
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -5791415299758074153
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -3859665181570267567
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 2756857321775605853
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -2683457667820689475
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -8206118037997337449
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3833368913209940350
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -1069148134585788119
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 4858123347521962724
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 5955751695401820717
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1628433542260557974
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: -2277515110612814199
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -8938816425071708917
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 8983986686858740960
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 3176394480742912187
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 2633265143862232526
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 4409189913667568039
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 6286958551196116626
+    second: 'Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: -2490880970647553016
+    second: 'Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 7050851356994518579
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: 7748954924646718196
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: -2955181409149826506
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 5983517284561005517
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: -2929980837432002573
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -5605430217105322016
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -8157446898829425945
+    second: Model_16_Assault_Rifle.002|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: -8730666682605458545
+    second: Model_16_Assault_Rifle.002|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 6056302030968418497
+    second: Model_16_Assault_Rifle.002|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: 6999815176819823615
+    second: Model_16_Assault_Rifle.002|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: 4007867297179382937
+    second: Model_16_Assault_Rifle.002|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -1450925542964365371
+    second: Model_16_Assault_Rifle.002|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: 4551219854817642992
+    second: Model_16_Assault_Rifle.002|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: 4598143778614736619
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -6377064468517165574
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -7451049601682742523
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 1582274505133596662
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 5068387827769536732
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -8666289544366643778
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -2079927040136819175
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 3068788296564327323
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 8658324403564964467
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 5967383676014669143
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 5005002287041862290
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 2786214220411268092
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 3739887096489666032
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -4054187936403574010
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 7782722388192819975
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -9184294672459971892
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -313816335293327314
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 6562673843496097831
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -7583186766221570210
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -9196679725051886348
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -5896767913762457310
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: 4395062002806925129
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -6490149565484964218
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 8156142825814464065
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: -1771109060568722530
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: 7955269005763413469
+    second: 'Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 1702752061158013355
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -5988068303798319262
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -1122927653035388719
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 473845220086563668
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8555212147891648070
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2376004492057253484
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 6519818065264200329
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 6401241431420965648
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 2443657016064485022
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 9078546209767863853
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4333359142254338119
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 125530700020174783
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 8757435894013078713
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -4745005289622546320
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2201165556497342147
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -2302060404554294051
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -2780442622452689454
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 1118227903534521482
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1859833984551649706
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -5514396252004634914
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 5786509708288402240
+    second: 'Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: 1241496049548014514
+    second: 'Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 3291316540525681354
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: -4446915320108168017
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: 2819341962531717393
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: -7959105029765895013
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: -3139225542980436974
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: 1631398481018217784
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -3771583461487030887
+    second: Model_16_Assault_Rifle.003|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: 7552464575767587976
+    second: Model_16_Assault_Rifle.003|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 327069514784471435
+    second: Model_16_Assault_Rifle.003|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: -4258233211562047417
+    second: Model_16_Assault_Rifle.003|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: 5945521253893099119
+    second: Model_16_Assault_Rifle.003|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -4753735535310083930
+    second: Model_16_Assault_Rifle.003|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: -1314148710975313116
+    second: Model_16_Assault_Rifle.003|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: -8334618911414276655
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 7811957669043136403
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -7145331160044937005
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 5938832131548777929
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 7192478583182577652
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 5256095942316245837
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -2876401524409573736
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -5514039118196218396
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6634626568476988030
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -5522582071900650945
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 3462833746751085792
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -1004631090495737482
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -350421622375813263
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 5053167145031362217
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 1151606069122963942
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4258696487992831158
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 216165675678714650
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 5492486534930991021
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -7158472349824465420
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -1529070085865699432
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 8890043279959989725
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: 4943328390998298016
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -6526523777058330362
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 6274698948899788482
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: -8112085219751126337
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: -1532816461648148459
+    second: 'Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 5229857106337998084
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4156705602940237941
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 8079828821883797764
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: -5390537146045701149
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -4264447593742156474
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -8549986026391889632
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 6641979504205089815
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -5254500105881981581
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -8246871894004936741
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3792638988123548715
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -8889476431257185752
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -5830046578086660651
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -7317355758555077033
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 6912655376456624308
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8874961568155829215
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 6560828193172101740
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 825486833757721471
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -2826305962813726122
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 8033403754126735370
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -1738465495030205964
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -4718664547465028275
+    second: 'Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: -1169662018497773534
+    second: 'Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 8350599289987764532
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: 5302758996330326346
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: -2462853956903489292
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 473711093274280651
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: 7899661870299927458
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -6516094111566827941
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -8985495236310142335
+    second: Model_16_Assault_Rifle.004|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: 4904098258108516008
+    second: Model_16_Assault_Rifle.004|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 2406806746152414050
+    second: Model_16_Assault_Rifle.004|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: -8955631065845663531
+    second: Model_16_Assault_Rifle.004|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: 2643649527994350917
+    second: Model_16_Assault_Rifle.004|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -5961610793345130821
+    second: Model_16_Assault_Rifle.004|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: -4507126798982139109
+    second: Model_16_Assault_Rifle.004|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: 9050145276332883439
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -5085900139867782310
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -5246543277714047375
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 4196048171275671644
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -2725962808988829417
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 8806234212118211883
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 3786950634950813437
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 4065043084621458878
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 728069074807119502
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 4511210033040681854
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 7386915026819363331
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -8730306797449770611
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -7299044742726636934
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 3531782563935329380
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3848881327209047104
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 949940064266843093
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -45325534534397902
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 6145129510826001396
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -7559160833244622375
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -6640905365132061264
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2213376206583725087
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: -3851396023289724975
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -2809026510211368414
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 6272875929364167779
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: -8091914244580495866
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: -4090280462290411956
+    second: 'Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 5155801714668186435
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 1157965075428879187
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 257155352167664564
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 2946375174624379378
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 7525382128027935284
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -6836604590175183981
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 1575178914563134626
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -1180093015058509467
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 5079629437863191541
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -5426116504855391848
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -4997240974614998174
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 4216671508315507578
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 326741102357744150
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 750848267625936879
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3230937442499097745
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 8290950877697397444
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 2755630098409748301
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -601376063048692471
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1999738311379317420
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3619666422118117094
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -5985727672076269638
+    second: 'Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: -3913429959177908842
+    second: 'Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 196263123378409244
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: -5080259445067318222
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: 5338381723741127322
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 1778755796977154550
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: -8116110619072234534
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: 338937293296530524
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -7364299433516859198
+    second: Model_16_Assault_Rifle.005|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: -6038760593008675060
+    second: Model_16_Assault_Rifle.005|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 2414540773972626665
+    second: Model_16_Assault_Rifle.005|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: -1909146647698932455
+    second: Model_16_Assault_Rifle.005|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: 5700858384221418951
+    second: Model_16_Assault_Rifle.005|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -3158869121406642226
+    second: Model_16_Assault_Rifle.005|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: 7601467698223226598
+    second: Model_16_Assault_Rifle.005|Model_16_Assault_Rifle|Default Take|Layer0.005
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 120
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+[paths]
+default = https://bitbucket.org/bardirus/ultra_hot
+[ui]
+username = BarDirus
+[auth]
+host.prefix = bitbucket.org
+host.username = bardhunter@mail.ru
+host.password = orangebober1980
+host.schemes = http https

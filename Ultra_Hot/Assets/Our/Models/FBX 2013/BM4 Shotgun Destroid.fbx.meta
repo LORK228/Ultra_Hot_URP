@@ -1,0 +1,889 @@
+fileFormatVersion: 2
+guid: bf858f93b0218594da516134828aa29e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -6373636020959774693
+    second: BM4_Shotgun|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -8636029427228763512
+    second: BM4_Shotgun|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -8500746447214286622
+    second: BM4_Shotgun|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 369443276469012759
+    second: BM4_Shotgun|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -2875280169334914005
+    second: BM4_Shotgun|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -976965222252189054
+    second: BM4_Shotgun|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 5948441335886635468
+    second: BM4_Shotgun|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 4204079709245223845
+    second: BM4_Shotgun|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -8705195874853387997
+    second: BM4_Shotgun|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 4432294815476351445
+    second: BM4_Shotgun|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 408571819678629771
+    second: BM4_Shotgun|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 5050709496777816326
+    second: BM4_Shotgun|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 6739809768046623412
+    second: BM4_Shotgun|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -9181789054795485822
+    second: BM4_Shotgun|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: -1740207473895139265
+    second: BM4_Shotgun|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -3342433411948856059
+    second: BM4_Shotgun|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -6665281677345934052
+    second: BM4_Shotgun|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 6446874492899468307
+    second: BM4_Shotgun|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 9028100134662434621
+    second: BM4_Shotgun|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -1263262469221482477
+    second: BM4_Shotgun|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 8621005579002835364
+    second: BM4_Shotgun|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: -7309721083178474794
+    second: BM4_Shotgun|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: -150365461473620789
+    second: BM4_Shotgun|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -2876716333817336646
+    second: BM4_Shotgun|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: -1075379598771721338
+    second: BM4_Shotgun|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: 5002033257353928366
+    second: 'BM4_Shotgun|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 4719033310815272016
+    second: BM4_Shotgun|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -5528203090566335259
+    second: BM4_Shotgun|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -1105233058909333403
+    second: BM4_Shotgun|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1635785471224337753
+    second: BM4_Shotgun|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 7574731947520295175
+    second: BM4_Shotgun|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -1189816878439236267
+    second: BM4_Shotgun|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -7335070205820015347
+    second: BM4_Shotgun|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -4283341684337796560
+    second: BM4_Shotgun|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -3770409262526049892
+    second: BM4_Shotgun|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -4047169997214490073
+    second: BM4_Shotgun|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 3739862665059052037
+    second: BM4_Shotgun|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -8601730246338392369
+    second: BM4_Shotgun|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -7104372247547096696
+    second: BM4_Shotgun|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1518110564997262842
+    second: BM4_Shotgun|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2740699643689574537
+    second: BM4_Shotgun|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4433984227441669223
+    second: BM4_Shotgun|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 3800958530319670797
+    second: BM4_Shotgun|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 8225715113564583132
+    second: BM4_Shotgun|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1357213691394859271
+    second: BM4_Shotgun|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2760617977946441161
+    second: BM4_Shotgun|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2474827506889033896
+    second: 'BM4_Shotgun|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: 8410785946739322258
+    second: 'BM4_Shotgun|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: -4543437553975029899
+    second: BM4_Shotgun|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: 6119596120103034016
+    second: BM4_Shotgun|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: -3269066480415172067
+    second: BM4_Shotgun|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 5523900147678412722
+    second: BM4_Shotgun|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: 973833293530810016
+    second: BM4_Shotgun|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -5605830322154354137
+    second: BM4_Shotgun|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: 1883901717589949446
+    second: BM4_Shotgun|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: -7220573785866506024
+    second: BM4_Shotgun|BM4_Shotgun|Default Take|Layer0
+  - first:
+      74: -4446195295253816591
+    second: BM4_Shotgun|BM4_Shotgun|Default Take|Layer0.001
+  - first:
+      74: 3943943012259806697
+    second: BM4_Shotgun|BM4_Shotgun|Default Take|Layer0.002
+  - first:
+      74: -7023194275087543243
+    second: BM4_Shotgun|BM4_Shotgun|Default Take|Layer0.003
+  - first:
+      74: 7330294398454307489
+    second: BM4_Shotgun|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: -8843082304466333456
+    second: BM4_Shotgun|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: 4292963613044495687
+    second: BM4_Shotgun|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: -3077851122197825306
+    second: BM4_Shotgun|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: 5441971967973079735
+    second: BM4_Shotgun|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: -8152902537245587136
+    second: BM4_Shotgun|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: 8201300666110244085
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4650787202599330546
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 1777103116997408935
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: -3006055245541153319
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2644814233777945497
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 6799391454975451333
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 3106425161330695294
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 833257768336104447
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 8053882101562430628
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -727415150766252978
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -7296101643403509661
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 514024554790864902
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 2432008282764684440
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 8791582415195846882
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 547330408867710179
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4673095059946763355
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 1598041989776959
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 55023631099212052
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 8747032008491091393
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 7172669775364490755
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -7925436949090062221
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: -4188660417866681868
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: 8915367393064508545
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -1200047442363838409
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: -8091402543656939543
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: 4128226222740805955
+    second: 'BM4_Shotgun.001|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: -2461076706861783051
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: 5444615252603683189
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 2120475156498717516
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: -3850073816988485778
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 6611142943173928250
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2328670835197269892
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: -9201085806552207692
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 5075918000128505518
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -8674061241690684104
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -403165908866278188
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -4530356244383340545
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 8571513094711093699
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -4039670962269359875
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6125234966228749382
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 3054260857116942904
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 2192210389480638381
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -5604480099057302396
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -97225723516455407
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -5753427366457730152
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 804112337273483263
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -5911572847512412857
+    second: 'BM4_Shotgun.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: 779298515680712628
+    second: 'BM4_Shotgun.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 723109708361393563
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: -3315847433570122079
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: 6258945725102636369
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 5749334201299640983
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: -4350841103311769090
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -1164597574485503232
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: 7306326675494744887
+    second: BM4_Shotgun.001|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: 5775270848466104129
+    second: BM4_Shotgun.001|BM4_Shotgun|Default Take|Layer0
+  - first:
+      74: -719751182621219894
+    second: BM4_Shotgun.001|BM4_Shotgun|Default Take|Layer0.001
+  - first:
+      74: -2491190224169302009
+    second: BM4_Shotgun.001|BM4_Shotgun|Default Take|Layer0.002
+  - first:
+      74: -5436400688471393452
+    second: BM4_Shotgun.001|BM4_Shotgun|Default Take|Layer0.003
+  - first:
+      74: 3251793933988123668
+    second: BM4_Shotgun.001|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 3251284365965020361
+    second: BM4_Shotgun.001|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: 8454205931427969212
+    second: BM4_Shotgun.001|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: 1679095259633017871
+    second: BM4_Shotgun.001|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -3899328378280754222
+    second: BM4_Shotgun.001|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: 5770814308868712021
+    second: BM4_Shotgun.001|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: 6007755736288455269
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -3444489748091440409
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: 435438768325616648
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 5901754678564460063
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3134188326327815763
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 1074844633376922245
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 6372686163439670790
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 6449164421607333051
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 1067149348890996606
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 992943829755825191
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -499421305119247162
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: 7574213517146335089
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 1076439475911396234
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 3123249888646647631
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 6008655871054719126
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 1577083971204189988
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -3058528701056327873
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: -1666124584871515507
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 6527798372420271831
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8149353354422119290
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -7976482670904682859
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: -450713697860997229
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: 1092877035054482781
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 3472563365086832313
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: 1900212823175110598
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: 1100825807775058053
+    second: 'BM4_Shotgun.002|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 282682681470370652
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -775386161399981052
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -7602996822634760280
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6610836840576352773
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -5485666804327658794
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -6441287329761820049
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 831670115741915650
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: -4725312325975034069
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: -4408418859061909170
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -4682878855424393104
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 5425697316765573229
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -7122023086744099817
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 1339288730218905661
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 7571545781504924353
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8758649254169843577
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -2416055705936154119
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: -8376345320536826759
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 6771041522200210427
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 7626956090508944439
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 5101810144748254413
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -7785321399602578415
+    second: 'BM4_Shotgun.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: 150101156824652274
+    second: 'BM4_Shotgun.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 4900431811280736192
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: 8595283000899686136
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: -4924643044205339858
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 6747573168976376655
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: -6807042429730743249
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -4260692908765409935
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: -128983833578702038
+    second: BM4_Shotgun.002|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: 4395004608504390010
+    second: BM4_Shotgun.002|BM4_Shotgun|Default Take|Layer0
+  - first:
+      74: 5046842095680129677
+    second: BM4_Shotgun.002|BM4_Shotgun|Default Take|Layer0.001
+  - first:
+      74: -3627904698100517732
+    second: BM4_Shotgun.002|BM4_Shotgun|Default Take|Layer0.002
+  - first:
+      74: 2823024854486373608
+    second: BM4_Shotgun.002|BM4_Shotgun|Default Take|Layer0.003
+  - first:
+      74: 1410918584447690788
+    second: BM4_Shotgun.002|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: 245130464503776779
+    second: BM4_Shotgun.002|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: 8313179212569302921
+    second: BM4_Shotgun.002|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: -7788935231864079990
+    second: BM4_Shotgun.002|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -2990120587968739003
+    second: BM4_Shotgun.002|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: -9001345213233321789
+    second: BM4_Shotgun.002|Model_16_Assault_Rifle|Default Take|Layer0.005
+  - first:
+      74: 8782785055554618341
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -4499195854178768810
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -6674562149198437552
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: -5097359231000403458
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: -8779313046842401931
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -9100116246519848615
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 390924473986955247
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 1042934551640209171
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 5610004340177568980
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: -395140865065218384
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -3544643344414742141
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -3508477958107706019
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: 2169622930391651245
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: 7519259260432312594
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: -8195951534351001508
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -9155941267899000770
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 423091884691572667
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 3635411062531322199
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: -1337251721571993036
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: 1392149574168966597
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -7009961403654852123
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.004|Default Take|Layer0
+  - first:
+      74: 1876536808611411954
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Defa
+  - first:
+      74: 6763171006492907601
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -8788391537955027177
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.001
+  - first:
+      74: 7071592961131565322
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Defa.002
+  - first:
+      74: -8371583108092465164
+    second: 'BM4_Shotgun.003|9mm_Heavy_Pistol.005|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: -4624617644490418916
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol.004|
+  - first:
+      74: -5161964440830230154
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|
+  - first:
+      74: -6714393511860645223
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.001
+  - first:
+      74: 819638742264068515
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8768359000024638123
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.006|9mm_Heavy_Pistol.001|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 3335651611412870050
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol.004|
+  - first:
+      74: 3967574507754846099
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|
+  - first:
+      74: 6533953831168974243
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.001
+  - first:
+      74: 3698441289427429454
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|.002
+  - first:
+      74: 2910512204335825965
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.007|9mm_Heavy_Pistol.002|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -2252351834751926153
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol.004|
+  - first:
+      74: -2724821470751603864
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|
+  - first:
+      74: -298477292888177120
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.001
+  - first:
+      74: -6390496165534411466
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|.002
+  - first:
+      74: 8508387391717557146
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.008|9mm_Heavy_Pistol.003|9mm_Heavy_Pistol|Defa
+  - first:
+      74: -6514118733485666816
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol.004|
+  - first:
+      74: 7663887624825874580
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|
+  - first:
+      74: 6644031076405725547
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.001
+  - first:
+      74: 286383310779851932
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|.002
+  - first:
+      74: -3130245046298199385
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol.009|9mm_Heavy_Pistol.004|9mm_Heavy_Pistol|Defa
+  - first:
+      74: 4094594282386151309
+    second: 'BM4_Shotgun.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol.004|Default '
+  - first:
+      74: -5861976018654225930
+    second: 'BM4_Shotgun.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default '
+  - first:
+      74: 2921738609277943485
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .001
+  - first:
+      74: -2690180706461131525
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      .002
+  - first:
+      74: 8240341416778503994
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|9mm_Heavy_Pistol|9mm_Heavy_Pistol|Default
+      Take
+  - first:
+      74: 235463527332522100
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|Default Take|Layer0
+  - first:
+      74: 1179020615415807044
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|Default Take|Layer0.001
+  - first:
+      74: -1060739059949964771
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|Default Take|Layer0.002
+  - first:
+      74: 4247470513895268466
+    second: BM4_Shotgun.003|9mm_Heavy_Pistol|Default Take|Layer0.003
+  - first:
+      74: -6846432251471980437
+    second: BM4_Shotgun.003|BM4_Shotgun|Default Take|Layer0
+  - first:
+      74: 4301697374302754717
+    second: BM4_Shotgun.003|BM4_Shotgun|Default Take|Layer0.001
+  - first:
+      74: -9080415309850109596
+    second: BM4_Shotgun.003|BM4_Shotgun|Default Take|Layer0.002
+  - first:
+      74: 769480159203078921
+    second: BM4_Shotgun.003|BM4_Shotgun|Default Take|Layer0.003
+  - first:
+      74: 1369763765073379905
+    second: BM4_Shotgun.003|Model_16_Assault_Rifle|Default Take|Layer0
+  - first:
+      74: -8657319157527758953
+    second: BM4_Shotgun.003|Model_16_Assault_Rifle|Default Take|Layer0.001
+  - first:
+      74: -49687309678574142
+    second: BM4_Shotgun.003|Model_16_Assault_Rifle|Default Take|Layer0.002
+  - first:
+      74: -1701188766460369810
+    second: BM4_Shotgun.003|Model_16_Assault_Rifle|Default Take|Layer0.003
+  - first:
+      74: -7368052287367329090
+    second: BM4_Shotgun.003|Model_16_Assault_Rifle|Default Take|Layer0.004
+  - first:
+      74: 4467782560875970517
+    second: BM4_Shotgun.003|Model_16_Assault_Rifle|Default Take|Layer0.005
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 120
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
