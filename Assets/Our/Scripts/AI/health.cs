@@ -28,11 +28,8 @@ public class health : MonoBehaviour
         {
             wp.isKinematic = enabled;
         }
-        foreach (Rigidbody wp in allChasti2)
-        {
-            wp.isKinematic = enabled;
-        }
     }
+    
     public IEnumerator dead()
     {
         gameObject.GetComponent<AI>().enabled = false;
@@ -56,21 +53,18 @@ public class health : MonoBehaviour
                 allChasti[i].isKinematic = false;
             }
         }
-        yield return new WaitForSeconds(5000);
-        foreach (Rigidbody wp in allChasti)
+        
+        for (int i = 0; i < allChasti2.Count; i++)
         {
-            if (wp.gameObject.GetComponent<CapsuleCollider>() != null)
+            if(allChasti2[i] != null)
             {
-                wp.gameObject.GetComponent<CapsuleCollider>().enabled = false;
+                allChasti2[i].GetComponent<BodyPart>().go = true;
             }
-
-
         }
         yield return new WaitForSeconds(5);
         Destroy(gameObject);
-
-
     }
+
     public void death(Transform tr, int fr, Collider othr,Rigidbody pt)
     {
         part = pt;

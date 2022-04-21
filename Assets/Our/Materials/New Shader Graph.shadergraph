@@ -2540,7 +2540,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "b2ff818238c44a408baa4833483d0f1a",
     "m_Id": 0,
-    "m_DisplayName": "Burn Noise",
+    "m_DisplayName": "_BurnNoise",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3097,15 +3097,15 @@
     "m_Guid": {
         "m_GuidSerialized": "40aa7bea-7809-4aaf-b513-e25aafc45d18"
     },
-    "m_Name": "Burn Noise",
+    "m_Name": "_BurnNoise",
     "m_DefaultReferenceName": "Vector1_ef3b0207d48046f6933d61a61367308a",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
+    "overrideHLSLDeclaration": true,
+    "hlslDeclarationOverride": 1,
     "m_Hidden": false,
-    "m_Value": 0.4300000071525574,
+    "m_Value": 0.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
