@@ -15,19 +15,4 @@ public class bones : MonoBehaviour
         collider = GetComponent<Collider>();
         health = GetComponentInParent<health>();
     }
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.layer == 9)
-        {
-            if (rigid.velocity.magnitude > 3 && name != "mixamorigs:Hips" && name != "mixamorigs:Spine")
-            {
-                print(collider.name);
-                print(transform);
-                print(rigid);
-                print(0);
-                print(health);
-                health.death(transform, 0, collider, rigid);
-            }
-        }
-    }
 }
