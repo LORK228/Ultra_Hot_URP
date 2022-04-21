@@ -10,14 +10,9 @@ public class BloodPosition : MonoBehaviour
 
     private void Start()
     {
-        particle = gameObject.GetComponent<ParticleSystem>();
-        StartCoroutine("blood");
+        particle = gameObject.GetComponent<ParticleSystem>();;
     }
-    public IEnumerator blood()
-    {
-        yield return new WaitForSeconds(0.01f);
-        transform.parent = parentPart;
-    }
+    
     private void Update()
     {
         if (triggerPart == null && particle.isPlaying == false)
