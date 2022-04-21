@@ -95,7 +95,7 @@ Material:
     - Vector1_a302a13f9a3548d58976b552ce6813ae: 3.13
     - Vector1_c321ef40ec3c42779681c4921b96fa84: 0.015
     - Vector1_c70d4412b41f467bb6e7849dacfdf9fe: 0.31
-    - Vector1_ef3b0207d48046f6933d61a61367308a: 0.2
+    - Vector1_ef3b0207d48046f6933d61a61367308a: 0
     - _BumpScale: 1
     - _BurnSize: 0.101
     - _Cutoff: 0.5
