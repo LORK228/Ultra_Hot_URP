@@ -1464,7 +1464,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Occlusion",
     "m_StageCapability": 2,
-    "m_Value": 0.4300000071525574,
+    "m_Value": 3.049999952316284,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -3105,7 +3105,7 @@
     "overrideHLSLDeclaration": true,
     "hlslDeclarationOverride": 1,
     "m_Hidden": false,
-    "m_Value": 0.0,
+    "m_Value": 0.30000001192092898,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
