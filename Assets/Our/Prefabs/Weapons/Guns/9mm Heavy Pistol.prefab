@@ -231,7 +231,7 @@ MonoBehaviour:
   _interactDistance: 2
   _isInHend: 0
   _isInHendAI: 0
-  _materialInteract: {fileID: 2100000, guid: 7e1d2b8117de9374e90f965e398ad17c, type: 2}
+  _materialInteract: {fileID: 2100000, guid: 0f79e4dd5695e7f40b2a61155b289c07, type: 2}
   IsLethal: 0
   _IsThrowable: 0
   rotationy: 0

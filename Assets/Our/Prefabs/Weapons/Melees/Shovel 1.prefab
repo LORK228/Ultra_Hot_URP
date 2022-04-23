@@ -155,8 +155,7 @@ MonoBehaviour:
     healthPercent: 20
     hasError: 0
     visibleDamageLevel: 8
-  destroyedPrefab: {fileID: 2398798447743428583, guid: adb69716f6b7c7747942d6b1ed6bda4a,
-    type: 3}
+  destroyedPrefab: {fileID: 2398798447743428583, guid: adb69716f6b7c7747942d6b1ed6bda4a, type: 3}
   destroyedPrefabParent: {fileID: 1309321451585050214}
   fallbackParticle: {fileID: 0}
   fallbackParticleMaterial: {fileID: 0}
@@ -199,13 +198,16 @@ MonoBehaviour:
   _interactDistance: 30
   _isInHend: 0
   _isInHendAI: 0
-  _materialInteract: {fileID: 2100000, guid: 7e1d2b8117de9374e90f965e398ad17c, type: 2}
+  _materialInteract: {fileID: 2100000, guid: 0f79e4dd5695e7f40b2a61155b289c07, type: 2}
   IsLethal: 1
   _IsThrowable: 0
   rotationy: 0
   rotationz: 0
   isMelee: 1
+  force: 0
+  interactButton: {fileID: 0}
   _meshRenderer: {fileID: 660719199058474931}
   _materialStandart: {fileID: 2100000, guid: 6aea6073668a29c439d958428a3c0783, type: 2}
+  _animateForAI: 0
   WasInHandAI: 0
   wasInHands: 0
