@@ -237,7 +237,7 @@ MonoBehaviour:
   rotationy: 0
   rotationz: 0
   isMelee: 0
-  force: 0
+  force: 1500
   interactButton: {fileID: 0}
   _meshRenderer: {fileID: 0}
   _materialStandart: {fileID: 0}
