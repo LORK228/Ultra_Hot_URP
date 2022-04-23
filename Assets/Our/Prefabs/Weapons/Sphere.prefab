@@ -96,12 +96,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af2fddc321f69db4ab1d301f356ad817, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectorEnemy: {fileID: 1738842959339656, guid: d89df8def396288499987e1ee818c2d2,
-    type: 3}
+  projectorEnemy: {fileID: 1738842959339656, guid: d89df8def396288499987e1ee818c2d2, type: 3}
   Reflect: {fileID: 3090952411515049380, guid: 126ffc7044910bb44a2c8501ca4b2ce2, type: 3}
   speed: 10
   healBullet: 2
   force: 25
+  enemyParticle: {fileID: 7166469225523094032, guid: 40b3e363d53e53146b2a67f6f801346c, type: 3}
   damage: 0
   ForAI: 0
 --- !u!96 &745424744578323571
@@ -124,7 +124,7 @@ TrailRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7e1d2b8117de9374e90f965e398ad17c, type: 2}
+  - {fileID: 2100000, guid: 738f118aa214360489366338953cfd32, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

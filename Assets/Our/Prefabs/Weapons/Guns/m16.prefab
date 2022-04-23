@@ -100,8 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1af07083573503344a101bc0201d2dfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _bulletInstant: {fileID: 5801223989713102857, guid: fcbbac4fdd78e9442842390a83d3bb71,
-    type: 3}
+  _bulletInstant: {fileID: 5801223989713102857, guid: fcbbac4fdd78e9442842390a83d3bb71, type: 3}
   _timeBefShot: 0.8
   _animes:
     serializedVersion: 2
@@ -110,6 +109,9 @@ MonoBehaviour:
   _countOfBulletWhenFired: 3
   _radius: 0
   _isFastGun: 0
+  damage: 0
+  simpleGunParticle: {fileID: 6877726875531155091, guid: 90749a26a70c62649bcc597a164e8ab2, type: 3}
+  shotGunParticle: {fileID: 17489484610577428, guid: 201f7ed56c109b441887bf936d47f0e6, type: 3}
   _timerForShooting: 0.2
 --- !u!114 &3475780713011761105
 MonoBehaviour:
@@ -133,8 +135,11 @@ MonoBehaviour:
   rotationy: 0
   rotationz: 0
   isMelee: 0
+  force: 0
+  interactButton: {fileID: 0}
   _meshRenderer: {fileID: 0}
   _materialStandart: {fileID: 0}
+  _animateForAI: 0
   WasInHandAI: 0
   wasInHands: 0
 --- !u!54 &3475780713011761109
@@ -179,8 +184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 597ab241ca14613419e6e792bee012f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _bulletInstant: {fileID: 5801223989713102857, guid: fcbbac4fdd78e9442842390a83d3bb71,
-    type: 3}
+  _bulletInstant: {fileID: 5801223989713102857, guid: fcbbac4fdd78e9442842390a83d3bb71, type: 3}
   _timeBefShot: 3
   _animes:
     serializedVersion: 2
@@ -369,8 +373,7 @@ MonoBehaviour:
     healthPercent: 20
     hasError: 0
     visibleDamageLevel: 8
-  destroyedPrefab: {fileID: 4253273977969514096, guid: 65d6f9ebee525a14387eace6e338f7f9,
-    type: 3}
+  destroyedPrefab: {fileID: 4253273977969514096, guid: 65d6f9ebee525a14387eace6e338f7f9, type: 3}
   destroyedPrefabParent: {fileID: 3475780713011761104}
   fallbackParticle: {fileID: 0}
   fallbackParticleMaterial: {fileID: 0}

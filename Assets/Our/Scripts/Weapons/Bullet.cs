@@ -9,6 +9,7 @@ public class Bullet : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] public int healBullet;
     [SerializeField] public int force;
+    [SerializeField] public GameObject enemyParticle;
     [HideInInspector] public int damage;
     [HideInInspector] public bool ForAI;
 
@@ -40,13 +41,6 @@ public class Bullet : MonoBehaviour
             transform.position += transform.forward * Time.deltaTime * speed;
         }
     }
-    public void PivotTo(Vector3 position)
-    {
-        Vector3 offset = transform.position - position;
-        foreach (Transform child in transform)
-            child.transform.position += offset;
-        transform.position = position;
-    }
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.layer != 11 && other.gameObject.layer != 12 && other.isTrigger == false)
@@ -63,6 +57,7 @@ public class Bullet : MonoBehaviour
             }
             if (other.gameObject.layer == 8 && ForAI == true && Used == false && other.GetComponent<bones>() != null)
             {
+                Instantiate(enemyParticle, transform.position, Quaternion.Euler(-transform.forward));
                 health health = other.gameObject.GetComponentInParent<health>();
                 if (health.IsDead == true)
                 {

@@ -15,10 +15,13 @@ public class ShotOnClick : MonoBehaviour
     [SerializeField] private float _radius;
     [SerializeField] private bool _isFastGun;
     [SerializeField] private int damage;
+    [SerializeField] private GameObject simpleGunParticle;
+    [SerializeField] private GameObject shotGunParticle;
 
     //////////////////////////
     //private variables
     private Transform _spawnPoint;
+    private BulletSpawner bulletSpawner;
     private UIButtonInfo ButtonInfo;
     private float _time;
     private float _timeForShooting;
@@ -28,6 +31,7 @@ public class ShotOnClick : MonoBehaviour
     //////////////////////////
     private void Awake()
     {
+        bulletSpawner = gameObject.GetComponentInChildren<BulletSpawner>();
         _spawnPoint = GameObject.Find("spawnBullets").GetComponent<Transform>();
         text1 = GameObject.Find("HowManyBullets").GetComponent<TextMeshProUGUI>();
         if(GameObject.Find("ShootButton").GetComponent<UIButtonInfo>()!= null)
@@ -49,12 +53,14 @@ public class ShotOnClick : MonoBehaviour
         //это стрельба узи
         if(ButtonInfo.isDown && _countOfBullets != CountOfBullet && _timeForShooting > _timerForShooting && transform.parent != null && _time < 0 && _isFastGun && _radius !=0)
         {
+            GameObject particle = Instantiate(simpleGunParticle, bulletSpawner.transform.position, Quaternion.Euler(transform.forward));
             invoke();
             _countOfBullets += 1;
             _time = _timeBefShot;
             Vector3 newPoint = GetPoint();
             Bullet clonBullet = Instantiate(_bulletInstant, _spawnPoint.transform.position, Quaternion.identity);
             clonBullet.transform.LookAt(newPoint);
+            particle.transform.LookAt(newPoint);
             clonBullet.gameObject.GetComponent<Bullet>().ForAI = true;
             clonBullet.gameObject.GetComponent<Bullet>().damage = damage;
             _timeForShooting = 0;
@@ -63,12 +69,14 @@ public class ShotOnClick : MonoBehaviour
         //
         if (((ButtonInfo.isDown) && _time < 0 && _countOfBullets != CountOfBullet && transform.parent != null && _radius == 0 && !_isFastGun) || (_countOfBullets % _countOfBulletWhenFired != 0 && _timeForShooting > _timerForShooting && transform.parent != null && !_isFastGun))
         {
+            GameObject particle = Instantiate(simpleGunParticle, bulletSpawner.transform.position, Quaternion.Euler(transform.forward));
             invoke();
             _countOfBullets += 1;
             _time = _timeBefShot;
             Vector3 newPoint = GetPoint();
             Bullet clonBullet = Instantiate(_bulletInstant, _spawnPoint.transform.position, Quaternion.identity);
             clonBullet.transform.LookAt(newPoint);
+            particle.transform.LookAt(newPoint);
             clonBullet.gameObject.GetComponent<Bullet>().ForAI = true;
             clonBullet.gameObject.GetComponent<Bullet>().damage = damage;
             _timeForShooting = 0;
@@ -77,6 +85,9 @@ public class ShotOnClick : MonoBehaviour
 
         else if (ButtonInfo.isDown && _time < 0 && _countOfBullets != CountOfBullet && transform.parent != null && !_isFastGun && _radius !=0)
         {
+            Vector3 newPoint1 = GetPoint();
+            GameObject particle = Instantiate(shotGunParticle, bulletSpawner.transform.position, Quaternion.Euler(transform.forward));
+            particle.transform.LookAt(newPoint1);
             invoke();
             for (int i = 0; i < _countOfBulletWhenFired; i++)
             {

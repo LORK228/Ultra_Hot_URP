@@ -8,16 +8,7 @@ public class BodyPart : MonoBehaviour
     public bool go;
     public float speed;
     private float currTime;
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.layer == 9)
-        {
-            var skiMesh = GetComponent<SkinnedMeshRenderer>();
-            skiMesh.BakeMesh(GetComponent<MeshFilter>().mesh);
-            Destroy(skiMesh);
-            GetComponent<Destroyer>().DestroyMesh();
-        }
-    }
+   
     private void Update()
     {
         if (go)

@@ -61,7 +61,7 @@ public class health : MonoBehaviour
                 allChasti2[i].GetComponent<BodyPart>().go = true;
             }
         }
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(500);
         Destroy(gameObject);
     }
 
