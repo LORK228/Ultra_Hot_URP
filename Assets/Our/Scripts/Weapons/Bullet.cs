@@ -10,6 +10,7 @@ public class Bullet : MonoBehaviour
     [SerializeField] public int healBullet;
     [SerializeField] public int force;
     [SerializeField] public GameObject enemyParticle;
+    [SerializeField] public int forceGlass;
     [HideInInspector] public int damage;
     [HideInInspector] public bool ForAI;
 
@@ -55,6 +56,11 @@ public class Bullet : MonoBehaviour
             {
                 StartCoroutine("b_dea");
             }
+            if(other.gameObject.layer == 17)
+            {
+                other.gameObject.GetComponent<BreakGlass>().BreakIt(transform.position, forceGlass); 
+            }
+
             if (other.gameObject.layer == 8 && ForAI == true && Used == false && other.GetComponent<bones>() != null)
             {
                 Instantiate(enemyParticle, transform.position, Quaternion.Euler(-transform.forward));
