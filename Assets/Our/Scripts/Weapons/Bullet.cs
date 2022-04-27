@@ -119,7 +119,8 @@ public class Bullet : MonoBehaviour
             {
                 healBullet -= 1;
 
-
+                GameObject reflectInstate  = Instantiate(Reflect, hit.point, Quaternion.FromToRotation(Vector3.forward, hit.normal));
+                reflectInstate.transform.position += reflectInstate.transform.forward * 0.04f; 
                 if (raycast)
                 {
                     Ray ray1 = new Ray(transform.position, Vector3.Reflect(ray.direction, this.hit.normal));
@@ -132,7 +133,6 @@ public class Bullet : MonoBehaviour
                     raycast = Physics.Raycast(ray, out hit, Mathf.Infinity);
                     this.hit = hit;
 
-                    Instantiate(Reflect, transform.position, Quaternion.FromToRotation(Vector3.forward, hit.normal));
                 }
             }
 

@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectorEnemy: {fileID: 1738842959339656, guid: d89df8def396288499987e1ee818c2d2, type: 3}
-  Reflect: {fileID: 3090952411515049380, guid: 126ffc7044910bb44a2c8501ca4b2ce2, type: 3}
+  Reflect: {fileID: 2684048044794784570, guid: 3be9ac80a7d3b434c94ecf2355525fcf, type: 3}
   speed: 10
   healBullet: 2
   force: 25
