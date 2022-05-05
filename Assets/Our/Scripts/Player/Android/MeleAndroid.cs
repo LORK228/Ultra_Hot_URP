@@ -94,7 +94,7 @@ public class MeleAndroid : MonoBehaviour
                                     _enemy.GetComponent<AI>().OnVikinut();
                                     if (_enemy.GetComponent<AI>().heal <= 0)
                                     {
-                                        _enemy.GetComponent<health>().death(transform, force, _part.GetComponent<Collider>(), _part.GetComponent<Rigidbody>());
+                                        _enemy.GetComponent<health>().death(transform, force, _part.GetComponent<Rigidbody>());
                                         print(_part.name);
                                         _part.GetComponent<Rigidbody>().AddForce(_part.transform.forward * force, ForceMode.Impulse);
 
