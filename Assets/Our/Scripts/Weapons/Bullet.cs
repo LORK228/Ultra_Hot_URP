@@ -108,7 +108,7 @@ public class Bullet : MonoBehaviour
 
                     if (other.gameObject.GetComponentInParent<AI>().heal <= 0)
                     {
-                        health.death(transform,force,other,part);
+                        health.death(transform,force,part);
                     }
                 }
                 StartCoroutine(b_dea());

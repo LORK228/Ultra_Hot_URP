@@ -65,13 +65,13 @@ public class health : MonoBehaviour
         Destroy(gameObject);
     }
 
-    public void death(Transform tr, int fr, Collider othr,Rigidbody pt)
+    public void death(Transform tr, int fr, Rigidbody pt)
     {
         part = pt;
-        other = othr;
+        other = part.GetComponent<Collider>();
         force = fr;
         impulse = tr;
-        
+
         if (IsDead == false)
         {
             StartCoroutine(dead());
@@ -102,6 +102,9 @@ public class health : MonoBehaviour
                     Destroy(chasti[i].GetComponent<CharacterJoint>());
                     chastvr.GetComponent<SkinnedMeshRenderer>().BakeMesh(chastvr.GetComponent<MeshFilter>().mesh);
                     Destroy(chastvr.GetComponent<SkinnedMeshRenderer>());
+                    chastvr.GetComponent<BodyPart>().go = false;
+                    print(chastvr.name);
+                    Destroy(chastvr.GetComponent<CharacterJoint>());
                     chastvr.GetComponent<MeshRenderer>().enabled = true;
                 }
                 else
@@ -123,17 +126,18 @@ public class health : MonoBehaviour
             }
 
             other.GetComponent<Rigidbody>().isKinematic = true;
-        skiMesh.gameObject.GetComponent<Destroyer>().DestroyMesh();
-        Destroy(skiMesh);
+            skiMesh.gameObject.GetComponent<Destroyer>().DestroyMesh();
+            skiMesh.GetComponent<BodyPart>().go = false;
+            Destroy(skiMesh);
         }
         else
         {
             other.GetComponent<Rigidbody>().isKinematic = false;
-            other.GetComponent<Rigidbody>().AddForce(transform.forward * force * other.GetComponent<Rigidbody>().mass, ForceMode.Impulse);
+            other.GetComponent<Rigidbody>().AddForce(tr.forward * force * other.GetComponent<Rigidbody>().mass, ForceMode.Impulse);
         }
 
 
-        
+
 
     }
 

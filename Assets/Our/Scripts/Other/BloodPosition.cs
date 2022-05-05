@@ -17,7 +17,6 @@ public class BloodPosition : MonoBehaviour
     {
         if (triggerPart == null && particle.isPlaying == false)
         {
-            print("fasfas");
             particle.Play();
 
         }

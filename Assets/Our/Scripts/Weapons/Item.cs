@@ -279,14 +279,14 @@ public class Item : MonoBehaviour
                         Destroyweapon();
                         if (part.heal <= 0)
                         {
-                            part.GetComponent<health>().death(transform, force, collision.gameObject.GetComponent<Collider>(), collision.gameObject.GetComponent<Rigidbody>());
+                            part.GetComponent<health>().death(transform, force, collision.gameObject.GetComponent<Rigidbody>());
                             collision.gameObject.GetComponent<Rigidbody>().AddForce(part.transform.forward * force*collision.gameObject.GetComponent<Rigidbody>().mass, ForceMode.Impulse);
                         }
 
                     }
                     else if (collision.gameObject.layer == 9)
                     {
-
+                        print(collision.gameObject.layer);
                         Destroyweapon();
                     }
                 }

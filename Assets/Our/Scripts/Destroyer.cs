@@ -12,7 +12,7 @@ public class Destroyer : MonoBehaviour
     private SkinnedMeshRenderer skin;
     private MeshFilter filter;
     private MeshCollider meshCollider;
-    private bool health;
+    private SkinnedMeshRenderer health;
     public Transform pos;
     public int CutCascades = 3;
     public float ExplodeForce = 2500;
@@ -40,7 +40,7 @@ public class Destroyer : MonoBehaviour
     }
     private void Update()
     {
-        if (health != false)
+        if (health != null)
         {
             PivotTo(pos);
             transform.rotation = pos.transform.rotation;
