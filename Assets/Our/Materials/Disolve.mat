@@ -99,10 +99,10 @@ Material:
     - Vector1_8bb1410bbc674ad39e748a1bc63bb880: 1.4
     - Vector1_8d205b9630fd487ea06573920d442d4e: -0.08
     - Vector1_a19a1f3c76d4445b9b632aa0c3454022: 2.83
-    - Vector1_a302a13f9a3548d58976b552ce6813ae: 3.03
+    - Vector1_a302a13f9a3548d58976b552ce6813ae: 3.2
     - Vector1_c321ef40ec3c42779681c4921b96fa84: 0.015
     - Vector1_c70d4412b41f467bb6e7849dacfdf9fe: 0.31
-    - Vector1_ef3b0207d48046f6933d61a61367308a: 0.29
+    - Vector1_ef3b0207d48046f6933d61a61367308a: 0
     - _BumpScale: 1
     - _BurnSize: 0.101
     - _Cutoff: 0.5
