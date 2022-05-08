@@ -2,7 +2,11 @@
     "m_SGVersion": 2,
     "m_Type": "UnityEditor.ShaderGraph.GraphData",
     "m_ObjectId": "108c6bd770f74623a6fda532e841b751",
-    "m_Properties": [],
+    "m_Properties": [
+        {
+            "m_Id": "fe2a6f7866e34a4a9bbae6fb879d229e"
+        }
+    ],
     "m_Keywords": [],
     "m_Nodes": [
         {
@@ -258,7 +262,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Occlusion",
     "m_StageCapability": 2,
-    "m_Value": 1.2200000286102296,
+    "m_Value": 0.9100000262260437,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -614,8 +618,31 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": 1.690000057220459,
+    "m_Value": 0.6700000166893005,
     "m_DefaultValue": 0.5,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "fe2a6f7866e34a4a9bbae6fb879d229e",
+    "m_Guid": {
+        "m_GuidSerialized": "85da1b1c-79a1-4b96-ac68-062ffeef31a2"
+    },
+    "m_Name": "Metallic",
+    "m_DefaultReferenceName": "Vector1_fe2a6f7866e34a4a9bbae6fb879d229e",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": 0.0,
+    "m_FloatType": 0,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 1.0
+    }
 }
 
