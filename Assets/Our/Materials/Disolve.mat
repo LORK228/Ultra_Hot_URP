@@ -92,14 +92,17 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_0ad22bd4afbb47a6b668d25d89395483: 0.87
     - Vector1_310aef36beb8408ab339f484691bef2f: -0.38
-    - Vector1_489879b9d38642d68145e729e61c81ce: 0.77
-    - Vector1_7086d37decd84f26a38837978beec56f: 0
-    - Vector1_a19a1f3c76d4445b9b632aa0c3454022: 2.82
-    - Vector1_a302a13f9a3548d58976b552ce6813ae: 3.13
+    - Vector1_489879b9d38642d68145e729e61c81ce: 0.68
+    - Vector1_7086d37decd84f26a38837978beec56f: 0.4
+    - Vector1_8bb1410bbc674ad39e748a1bc63bb880: 1.4
+    - Vector1_8d205b9630fd487ea06573920d442d4e: -0.08
+    - Vector1_a19a1f3c76d4445b9b632aa0c3454022: 2.83
+    - Vector1_a302a13f9a3548d58976b552ce6813ae: 3.03
     - Vector1_c321ef40ec3c42779681c4921b96fa84: 0.015
     - Vector1_c70d4412b41f467bb6e7849dacfdf9fe: 0.31
-    - Vector1_ef3b0207d48046f6933d61a61367308a: -0.29
+    - Vector1_ef3b0207d48046f6933d61a61367308a: 0.29
     - _BumpScale: 1
     - _BurnSize: 0.101
     - _Cutoff: 0.5
