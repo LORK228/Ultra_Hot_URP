@@ -102,7 +102,7 @@ public class ShotOnClickForAI : MonoBehaviour
 		if (distance > 9)
 		{
 			print(_radiusForRandom * distance);
-			point = hit.point + new Vector3(Random.value - 0.5f, 0, Random.value - 0.5f).normalized * (_radiusForRandom * distance);
+			point = hit.point + new Vector3(Random.value - 0.5f, Random.value - 0.5f, Random.value - 0.5f).normalized * (_radiusForRandom * distance);
 		}
         else
         {
