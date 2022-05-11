@@ -120,7 +120,7 @@ public class ShotOnClick : MonoBehaviour
     private Vector3 GetPointForShotGun()
     {
         Vector3 hit1 = GetPoint();
-        float distance = Vector3.Distance(GameObject.FindObjectOfType<ControllerAndroid>().transform.position, hit1);
+        float distance = Vector3.Distance(transform.position, hit1);
         Vector3 a = hit1 + new Vector3(Random.value - 0.5f, Random.value - 0.5f, Random.value - 0.5f).normalized * (_radius * distance);
         return a;
     }

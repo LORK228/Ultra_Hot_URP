@@ -21,6 +21,8 @@ public class ControllerAndroid : MonoBehaviour
     [Header("CameraMover")]
     [SerializeField] private float mouseSensitiviti;
     [SerializeField] private Camera _camera;
+    [SerializeField] private float _effectSpeed;
+    [SerializeField] private float _maxFOVeffect;
 
     //////////////////////////////////////////////////////////////////////////////////////////////
     [HideInInspector] public float mouseX;
@@ -163,6 +165,10 @@ public class ControllerAndroid : MonoBehaviour
         if (_isGrounded == true && Horizontal == 0 && Vertical == 0 && (mouseX != 0 || mouseY != 0))
         {
             Time.timeScale = _timeWhenStandAndMouseMove;
+            if (_camera.fieldOfView < _maxFOVeffect)
+            {
+                _camera.fieldOfView += 0.02f * _effectSpeed;
+            }
             if (lastTime != Time.timeScale)
             {
                 mouseSensitiviti = sens;
@@ -179,6 +185,10 @@ public class ControllerAndroid : MonoBehaviour
         if (_isGrounded == false || Horizontal != 0 || Vertical != 0)
         {
             Time.timeScale = 1;
+            if (_camera.fieldOfView > 60)
+            {
+                _camera.fieldOfView -= 0.02f * _effectSpeed;
+            }
             if (lastTime != Time.timeScale)
             {
                 mouseSensitiviti = sens;
@@ -192,6 +202,10 @@ public class ControllerAndroid : MonoBehaviour
         if (_isGrounded == true && Horizontal == 0 && Vertical == 0 && mouseX == 0 && mouseY == 0)
         {
             Time.timeScale = _timeWhenStand;
+            if(_camera.fieldOfView < _maxFOVeffect)
+            {
+                _camera.fieldOfView += 0.02f * _effectSpeed;
+            }
             if (lastTime != Time.timeScale)
             {
                 mouseSensitiviti = sens;
@@ -261,4 +275,6 @@ public class ControllerAndroid : MonoBehaviour
         // Apply the push
         body.velocity = pushDir * pushPower;
     }
+
+
 }
