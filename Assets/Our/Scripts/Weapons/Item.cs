@@ -191,6 +191,7 @@ public class Item : MonoBehaviour
             if (other.gameObject.layer == 8 && other.GetComponentInChildren<ShotOnClick>() == null  && gameObject.transform.parent == null && wasInHands == false && other.gameObject.GetComponent<AI>().enabled == true && other.GetComponent<AI>().InStun != true && other.GetComponent<AI>().Chase == false && other.GetComponent<AI>().hog == false)
             {
                 _AI = other.gameObject.GetComponent<AI>();
+                _AI.animation.SetBool("have pistol", true);
                 _AI.lookforweapon = false;
                 _AI.HaveWeapon = true;
                 _AI.WasInHandAI = true;
@@ -200,15 +201,7 @@ public class Item : MonoBehaviour
                 _isInHendAI = true;
                 wasInHands = true;
                 GetComponent<MeshCollider>().enabled = false;
-                gameObject.transform.parent = other.gameObject.transform;
-                if (!isMelee)
-                {
-                    gameObject.transform.localRotation = Quaternion.Euler(-90f, 0f, 180f);
-                }
-                else
-                {
-                    gameObject.transform.localRotation = Quaternion.Euler(0, 0, 0);
-                }
+                gameObject.transform.parent = _AI.arm.transform;
                 gameObject.GetComponent<Rigidbody>().useGravity = false;
                 gameObject.GetComponent<Rigidbody>().isKinematic = true;
             }
@@ -227,6 +220,12 @@ public class Item : MonoBehaviour
                 if (!isMelee)
                 {
                     gameObject.GetComponent<ShotOnClickForAI>().enabled = true;
+                    gameObject.transform.localRotation = Quaternion.Euler(0f, -90f, 0f);
+                    gameObject.transform.localPosition = new Vector3(-0.06f, 0.074f, 0.036f);
+                }
+                 else
+                {
+                    gameObject.transform.localRotation = Quaternion.Euler(0, 0, 0);
                 }
                 _animateForAI = false;
             }

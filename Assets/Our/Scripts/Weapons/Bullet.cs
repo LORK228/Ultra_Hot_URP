@@ -54,7 +54,7 @@ public class Bullet : MonoBehaviour
             }
             if (healBullet == 0)
             {
-                StartCoroutine("b_dea");
+                StartCoroutine(b_dea());
             }
             if(other.gameObject.layer == 17)
             {
@@ -68,7 +68,7 @@ public class Bullet : MonoBehaviour
                 if (health.IsDead == true)
                 {
                     other.GetComponent<Rigidbody>().AddForce(transform.forward * force * other.GetComponent<Rigidbody>().mass * 3, ForceMode.Impulse);
-                    StartCoroutine("b_dea");
+                    StartCoroutine(b_dea());
                 }
                 else if (health.IsDead == false)
                 {
@@ -98,6 +98,7 @@ public class Bullet : MonoBehaviour
                     {
                         AI[i].GetComponent<AI>().AiToDel.Remove(other.gameObject);
                     }
+                    print(other.name);
                     oder.GetComponent<AI>().heal -= damage;
                     Used = true;
                     if (oder.GetComponent<AI>().hog)
@@ -144,7 +145,7 @@ public class Bullet : MonoBehaviour
                 gameObject.GetComponent<SphereCollider>().enabled = false;
                 gameObject.GetComponent<MeshRenderer>().enabled = false;
                 oder.GetComponent<Rigidbody>().AddForce(transform.forward, ForceMode.Impulse);
-                StartCoroutine("b_dea");
+                StartCoroutine(b_dea());
             }
 
             if (other.gameObject.layer == 0 && ForAI == false)

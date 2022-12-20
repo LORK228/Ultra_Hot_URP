@@ -35,6 +35,7 @@ public class BreakGlass : MonoBehaviour {
 			t.GetComponent<Renderer>().material = ShardMaterial;
 			t.GetComponent<Rigidbody>().mass=ShardMass;
 			t.GetComponent<Rigidbody>().AddExplosionForce(force*100,napravlenie ,100);
+			t.gameObject.layer = 14;
 		}
 		
 		if(BreakSound) Destroy(Instantiate(SoundEmitter, transform.position, transform.rotation) as GameObject, SoundEmitterLifetime);

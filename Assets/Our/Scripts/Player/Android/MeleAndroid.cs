@@ -24,6 +24,7 @@ public class MeleAndroid : MonoBehaviour
 
     private void Start()
     {
+        min = Mathf.Infinity;
         _parts = new List<GameObject>();
         udarniki = new List<GameObject>();
         HaveGun = gameObject.GetComponentInParent<ControllerAndroid>().gameObject.GetComponentInChildren<ShotOnClick>();
@@ -67,7 +68,7 @@ public class MeleAndroid : MonoBehaviour
                 }
             }
 
-            if (sButton.isDown && gameObject.GetComponentInParent<ControllerAndroid>().gameObject.GetComponent<ShotOnClick>() == null) {
+            if (sButton.isDown && gameObject.GetComponentInParent<ControllerAndroid>().gameObject.GetComponentInChildren<ShotOnClick>() == null) {
                 if (_timer < 0 && _enemy.GetComponent<AI>().heal > 0)
 
                 {
@@ -95,7 +96,6 @@ public class MeleAndroid : MonoBehaviour
                                     if (_enemy.GetComponent<AI>().heal <= 0)
                                     {
                                         _enemy.GetComponent<health>().death(transform, force, _part.GetComponent<Rigidbody>());
-                                        print(_part.name);
                                         _part.GetComponent<Rigidbody>().AddForce(_part.transform.forward * force, ForceMode.Impulse);
 
                                     }

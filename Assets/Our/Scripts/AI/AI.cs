@@ -7,42 +7,51 @@ using System;
 
 public class AI : MonoBehaviour
 {
-	[SerializeField]
-	public int heal;
+	public bool hog;
+	public int maxheal;
 	public float _time;
 	public LayerMask masks;
-	[HideInInspector]
-	public NavMeshAgent agent;
-	private float Timer;
-	private Transform _player;
-	[HideInInspector]
-	public List<GameObject> _grounditems;
-	private GameObject[] grounditems;
-	[SerializeField]
-	public float min;
-	[HideInInspector]
-	public List<GameObject> AiToDel;
-	[SerializeField]
-	private GameObject minweapon;
-	[HideInInspector]
-	public bool HaveWeapon;//имеет оружие на руках
-	[HideInInspector]
-	public bool lookforweapon; // в поисках оружия
-	[HideInInspector]
-	public bool WasInHandAI; //оружие было в руках у бота (что бы при выпадении не уничтожалось)
 	public bool InStun;//если в стане
 	public bool Chase; // если идет за игроком (нет орудий на карте)
-	private bool patrol;
-	[SerializeField]
-	private GameObject item;
+	public Aim aim;
 	public Transform[] points;
-    private int destPoint = 0;
-    public bool hog;
-    public int maxheal;
-    private Animator animation;
+	public GameObject arm;
+	
+
+
+	private int destPoint = 0;
+	private float Timer;
+	private Transform _player;
+	private bool patrol;
+	private GameObject[] grounditems;
+	public Animator animation;
+
+
+	[SerializeField] private GameObject item;
+
+	[SerializeField] public float min;
+
+	[SerializeField] private GameObject minweapon;
+
+	[SerializeField] public int heal;
+
 	[SerializeField] private GameObject head;
 
-    public IEnumerator ai_dead() // стан с последующим обновлением списка оружий
+
+
+	[HideInInspector] public List<GameObject> _grounditems;
+
+	[HideInInspector] public NavMeshAgent agent;
+
+	[HideInInspector] public bool HaveWeapon;//имеет оружие на руках
+
+	[HideInInspector] public bool lookforweapon; // в поисках оружия
+
+	[HideInInspector] public bool WasInHandAI; //оружие было в руках у бота (что бы при выпадении не уничтожалось)
+
+	[HideInInspector] public List<GameObject> AiToDel;
+
+	public IEnumerator ai_dead() // стан с последующим обновлением списка оружий
 
 	{
 		if (heal > 0)
@@ -97,13 +106,12 @@ public class AI : MonoBehaviour
 	}
     void Awake()
 	{
-
 		animation = gameObject.GetComponent<Animator>();
-		
+		agent = GetComponent<NavMeshAgent>();
 		WasInHandAI = false;
 		min = Mathf.Infinity;
 		
-		agent = GetComponent<NavMeshAgent>();
+		
 		Timer = _time;
 		_player = GameObject.Find("Player").transform;
         if (gameObject.GetComponentInChildren<ShotOnClickForAI>() != null)
@@ -119,7 +127,7 @@ public class AI : MonoBehaviour
         }
         if (points.Length == 0)
         {
-			animation.SetTrigger("Run");
+			animation.SetBool("run",true);
 			patrol = false;
             agent.speed = 1.5f;
         }
@@ -181,11 +189,13 @@ public class AI : MonoBehaviour
 						AiToDel[i].GetComponent<AI>()._grounditems.Remove(minweapon);
 					}
 					if (minweapon.transform != null && _grounditems.Count != 0 && HaveWeapon == false && agent.enabled == true)
-					{
-						agent.SetDestination(minweapon.transform.position);
+                    {
+                        agent.SetDestination(minweapon.transform.position);
+						aim.sight = minweapon.transform;
+
 
 					}
-				}
+                }
 				else
 				{
 					_grounditems.Clear();
@@ -204,8 +214,9 @@ public class AI : MonoBehaviour
 							Timer = _time;
 							agent.enabled = true;
 							agent.SetDestination(_player.position);
-							
-							
+							aim.sight = _player;
+
+
 						}
 						else
 						{
@@ -215,6 +226,7 @@ public class AI : MonoBehaviour
 								gameObject.GetComponentInChildren<ShotOnClickForAI>().enabled = false;
 								
 								agent.SetDestination(_player.position);
+								aim.sight = _player;
 							}
 
 							else
@@ -231,6 +243,7 @@ public class AI : MonoBehaviour
 			{
 				Chase = true;
                 agent.SetDestination(_player.position);
+				aim.sight = _player;
 			}
 		}
 	}
@@ -363,8 +376,20 @@ public class AI : MonoBehaviour
                 gameObject.GetComponent<Rigidbody>().isKinematic = true;
             }
         }
+		
+	}
+    private void OnTriggerEnter(Collider other)
+    {
+		if (other.gameObject.layer == 17)
+		{
+			other.gameObject.GetComponent<BreakGlass>().BreakIt(transform.position, 2);
+		}
+	}
+    private void OnAnimatorIK(int layerIndex)
+    {
+     
     }
-	public void bleed()
+    public void bleed()
     {
 		StartCoroutine(maxhealcheck());
     }

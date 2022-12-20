@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &328538579145017071
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_Name
+      value: Glass
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_Layer
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -26.869
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -24.083
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.027352234
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.027352074
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7065777
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7065775
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -175.566
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 663da4d3def2b634e8ca14a84018eb59, type: 2}
+    - target: {fileID: 5400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: BreakSound
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: BreakByClick
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: BreakImpulse
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: ShardMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: f39cf1b58a7910141b26c0043a49b3d1, type: 2}
+    - target: {fileID: 11400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: BreakByImpulse
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+      propertyPath: BreakByVelocity
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6400000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+--- !u!1 &328538579144982607 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: f6ea55f633bd50f4b8d0dce6842753db, type: 3}
+  m_PrefabInstance: {fileID: 328538579145017071}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2061959048
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328538579144982607}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2, y: 0.10000202, z: 2.0000005}
+  m_Center: {x: 0, y: 0, z: 0}
